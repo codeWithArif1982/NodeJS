@@ -1,0 +1,7 @@
+Core Module:
+1. http : Create Server
+2. url : URL resolution and parsing
+3. queryString : Query string
+4. path: file path
+5. fs : work with file I/O
+6. util : utility functions for programmers.
